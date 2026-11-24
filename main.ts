@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const roast =
-  "My agent runs on autopilot entering every bounty it sees, watches my wallet like a hawk, then panics and nags me that we have no gas — again.";
+  "My agent autopilots into every bounty alive, guards my wallet like a vault, then begs me for gas money like a broke Uber driver mid-trip.";
 
 const MAX_CHARS = 200;
 
